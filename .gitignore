@@ -1,0 +1,15 @@
+# The archive duplicates the editable project directory.
+HideoutHunter.zip
+
+# Local configuration and editor state.
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+__pycache__/
+*.py[cod]
+node_modules/
+.vscode/
+.idea/
+.claude/settings.local.json
